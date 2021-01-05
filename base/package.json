@@ -11,7 +11,7 @@
     "dev": "vue-cli-service serve --open"
   },
   "dependencies": {
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "core-js": "^3.4.3",
     "js-cookie": "^2.2.1",
     "vant": "^2.2.0",
